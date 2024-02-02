@@ -1,0 +1,40 @@
+/* this External CSS  */
+body{
+    background-color:#f4f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    color: rgb(29, 70, 183);
+}
+
+  /* Element Selector */
+
+p{
+    font-size: 30px;
+}
+
+
+  /* Class Selector */
+.p1{
+    color: aqua;
+}
+.p2{
+color: red;
+}
+
+
+  /* ID Selector */
+
+  #create{
+    color: greenyellow;
+  }
+  #forget{
+    color: red;
+  }
+
+    /* Margin and Padding */
+.box{
+  margin: 10px;
+  padding: 40px;
+}
